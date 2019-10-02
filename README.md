@@ -1,7 +1,8 @@
 # Project PriPy
 
-A RaspberryPi client to download attachments and print whenever a new email with attachments comes into
-the inbox
+A RaspberryPi client to download attachments and prints whenever a new email with attachments comes into
+an inbox.
+It is used to fetch an email from account.
 
 ## Instructions to run this script
 - If you're using a Google Account with 2FA, you'll get an error authenticating.
